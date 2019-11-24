@@ -17,11 +17,17 @@ body {
 }
 
 svg {
-  margin: 5px 0 50px 0;
+  margin: 5px 0 15px 0;
 }
 
-svg#vis_arc {
+svg#vis_squence {
   width: 1200px;
-  height: 400px;
+  height: 150px;
+  border: 1px solid #ccc;
+}
+
+div#vis_network {
+  width: 1200px;
+  height: 550px;
   border: 1px solid #ccc;
 }
